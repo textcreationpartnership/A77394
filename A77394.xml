@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief anatomie of women: being an invective against, and apologie for the bad and good of that sexe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77394</idno>
+            <idno type="STC">Wing B4524</idno>
+            <idno type="STC">Thomason E722_2</idno>
+            <idno type="STC">ESTC R207228</idno>
+            <idno type="EEBO-CITATION">99866294</idno>
+            <idno type="PROQUEST">99866294</idno>
+            <idno type="VID">166765</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166765)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 111:E722[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief anatomie of women: being an invective against, and apologie for the bad and good of that sexe.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Alsop.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouember 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166765:1" rendition="simple:additions"/>
+            <p>A Brief ANATOMIE OF WOMEN: Being An <hi>INVECTIVE</hi> againſt, and <hi>APOLOGIE</hi> for THE BAD and GOOD Of that SEXE.</p>
+            <q>
+               <bibl>Eccleſ. 7.26, 27.28.</bibl>
+               <p>And I find more bitter then death, the woman whoſe heart is ſnares, and nets, and her hands as bands; who ſo pleaſeth God, ſhall eſcape from her, but the ſinner ſhall be taken by her.</p>
+               <p>Behold, this have I found (ſaith the Preacher) counting one by one to find out the account.</p>
+               <p>Which yet my ſoul ſeeketh, but I find not; one man among a thouſand have I found, but a woman among all thoſe have I not found.</p>
+            </q>
+            <p>
+               <add>Nouember 30</add> 
+               <hi>LONDON:</hi> Printed by <hi>E. Alſop.</hi> 1653.</p>
+         </div>
+         <div type="to_the_female_reader">
+            <pb facs="tcp:166765:2"/>
+            <head>To the Feminine Sex of either ſort.</head>
+            <p>YOu (whoſe abundant goodneſſe and magnificent ver<g ref="char:EOLhyphen"/>tues ſufficiently inform the world that you are not of the number of the bad) take notice that what is ſpoken of the generality of women (in my invective) is not to detract from your noble worth, but rather to adde lustre unto your Godly Zeal and honoured virtues; for if there were not deformity how could there be beauty; and if there were not ſin, how could righteouſneſs appear. The Antipathy therefore between good and evil, is as great as the viſible difference betwixt the moſt reſplendant light and obſcureſt darkneſs. Perſiſt then (Heroick ſouls) in all Godlineſs, moral virtues, and heavenly graces, leaving good examples unto poſterity, that ſo (<hi>Phoe<g ref="char:EOLhyphen"/>nix</hi> like) the glory of your ſex may revive, and continue to all Eternity.</p>
+            <p>But you (whoſe corrupt natures and evil diſpoſitions ren<g ref="char:EOLhyphen"/>der you odious in the ſight of God and Man.) Learn by your own deformities to hate vice and love virtue, to be more Godly and leſſe prophane, more humble, meek, and leſſe proud and vain glorious, and in your lives and converſations, more conſtant, ſtaid, and leſſe variable and diſſolute. So will you gain comfort unto your ſelves, adding to the number of the good (which are but few) and diminiſh from the bad, which are exceeding many. This is the deſire of him that is,</p>
+            <closer>
+               <signed>Your friend, ſo far as you are virtues, <hi>J. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166765:2"/>
+            <head>An <hi>INVECTIVE</hi> againſt BAD WOMEN.</head>
+            <p>IF we look upon Man in his firſt Original (when the breath of life was breathed into his noſtrils, and the work of his creation perfect<g ref="char:EOLhyphen"/>ed) we find that there was a Rib taken out of his ſide, whereof Woman was framed; but whether this rib were of the more groſs and terreſtrial part of that ſubſtance, I ſhall not here controvert, ſeeing the almighty works, and inevitable decrees of the great Creator, are be<g ref="char:EOLhyphen"/>yond the apprehenſion of man, and too deep for us earthly mortals to prie into: however (in all the revolutions and accidents that are incident unto us) it is moſt apparent, that there is an inſtrumental means for the effecting and bringing thoſe things to paſſe: Which well may appear in this firſt woman, who (being deluded by the ſubtile ſerpent, that ene<g ref="char:EOLhyphen"/>my of mankind) drew alſo <hi>Adam</hi> unto diſobedience, and ſo reduced him unto his firſt principle, as part of that earthly maſſe from whence he came, and we all return. And if we but ſeriouſly conſider the na<g ref="char:EOLhyphen"/>ture and qualities of the generallity of that ſex, even in all ages from the fall of man unto this preſent, we may well perceive that they have not been onely extreamly evil in themſelves; but have alſo been the main in<g ref="char:EOLhyphen"/>ſtruments and immediate cauſes of Murther, Idolatry, and a multitude of other hainous ſins, in many high and eminent men; witneſſe the wife of <hi>Vriah</hi> whoſe beauty ſo enſnared religious King <hi>David,</hi> as that it cauſed him to commit fornication, and not ſo content, but for his ſu<g ref="char:EOLhyphen"/>rer ſettlement and continuance in his wiſhed content, he directed the chief Captain of his Hoſt to place <hi>Vriah</hi> in the forefront of the battel, that ſo (probably) he might not eſcape death, which fell out according to his deſire: Alſo the wives and concubines of learned and wiſe K. <hi>Solomon,</hi> brought him unto idolatry; and <hi>Dalilah</hi> the beloved of <hi>Samp<g ref="char:EOLhyphen"/>ſon</hi>
+               <pb n="2" facs="tcp:166765:3"/>(notwithſtanding his great ſtrength) was by her overcome and be<g ref="char:EOLhyphen"/>traied unto death; likewiſe <hi>Potiphers</hi> wife would have allured her ſervant <hi>Ioſeph</hi> to have committed wickedneſs, but that he had the pow<g ref="char:EOLhyphen"/>er given him to reſiſt her temptation. <hi>Lots</hi> daughters, not onely made their father drunk, but cauſed him to commit Inceſt; <hi>Iob's</hi> wife (when his afflictions lay ſore and heavie upon him for his trial) adviſed him to curſe God and die. <hi>Ieſabel</hi> (for her great pride and wickedneſſe) re<g ref="char:EOLhyphen"/>ceived a juſt reward. I might have cited innumerable more of like na<g ref="char:EOLhyphen"/>ture, both out of divine and moral hiſtories, but I conceive theſe (toge<g ref="char:EOLhyphen"/>ther with our own experience in this age) ſufficient to inform us of the general inclination of theſe feminine creatures, I ſhall therefore now proceed to their more particular characters, which take as followeth.</p>
+            <p>The golden treſſes of their amorous hair (which being curiouſly kept ſuitable to their outward apparel, and according to the neweſt faſhion) doth manifeſtly expreſs the true performance of their dutie to their great Lord and maſter <hi>Lucifer,</hi> in obſerving ſo well his livery: and that they may more reallie appear to be his, and their beauty ſeem more glori<g ref="char:EOLhyphen"/>ouſly light to other, they parch up their viſages with pieces of darkneſs, which are as ſo many ſeals of <hi>Sathan</hi> to bind them to his pleaſure and will; all which, out of their great pride and little modeſty, they cover o<g ref="char:EOLhyphen"/>ver from the eie of the world, with a ſable vail, called black bags.</p>
+            <p>Their roling eies, like ſhining pearl, ſeem to be the baits that inſnare men in their love, whoſe fruit is deſtruction,</p>
+            <p>Their ears delight to entertain frivolous diſcourſes, eſpecially if it re<g ref="char:EOLhyphen"/>late to their praiſe and commendation, which is to them a thing moſt plauſable. Their tongue (that ſtirring and active member, both defen<g ref="char:EOLhyphen"/>ſive and offenſive) defenſive in vindicating and upholding their own ſuppoſed credit and good name, though ever ſo bad; offenſive in ſcold<g ref="char:EOLhyphen"/>ing, abuſing, and detracting from their neighbours, though ever ſo good.</p>
+            <p>Their Lips are the Poſterns from whence iſſueth lying, deceit, and all manner of diſſimulation.</p>
+            <p>Their neck and breſts are left bare unto the open view of the world to ſignifie that nature hath fairly acted her part without, although there remain no grace within.</p>
+            <p>Their Arms and Hands are ever ready to perform their reſpective duties unto the other parts of the bodie, whether good or evill: Their bodie it ſelf is a magazine of corrupt and ill humors, which hath conti<g ref="char:EOLhyphen"/>nual recourſe to all the reſt of the members: Their Thighs are the aſ<g ref="char:EOLhyphen"/>cent unto this frail fabrick of corruption, their legs the ſupporters, and
+<pb n="3" facs="tcp:166765:3"/>their feet ſwift guides to the waies of vanity; ſo that from the crown of their head to the ſole of the foot, there is not a good member, no not one.</p>
+            <p>Notwithſtanding it is undeniable but that they are generally uſefull; for there is nothing ſo bad, that hath not ſome virtue in it, neither was there any thing created but that is good; and they being a creature it muſt conſequently follow that they are ſo too; but for what, there is the main point of the diſcovery, and a thing much to be controverted: that they are a help unto man is indiſputable, but in what ſence, to exhauſt his eſtate, divulge his ſecrets, and be a continual trouble and vexation to his ſpirit all the daies of his life.</p>
+            <p>It we look upon their outward beauty, we ſhall find it like thoſe Indian Apples which are ſeemingly fair without but poiſon within; if upon their carriage and behaviour, we ſhall find that as far diſtant from their inward nature and conditions as the Eaſt is from the Weſt.</p>
+            <p>And if we but obſerve their actions and undertakings, it will mani<g ref="char:EOLhyphen"/>feſtly appear that they are fickle, changeable, and various as the wea<g ref="char:EOLhyphen"/>ther-cock, conſtant in nothing but inconſtancy, and humane creatures meerly metamorphoſed, ſeeming to be that which truly and really they are not, and in a word, it is moſt apparent that they onely are the greateſt and moſt powerfull temptations to evill of all other, the very gulf where mans reaſon, governance, and diſcretion is often ſwallowed up, and the Adamantine Rocks whereon many have been ſhipwracked.</p>
+            <p>Neither is there any thing (except Sathan it ſelf) that captivates mans ſences, or predominates more over his underſtanding and will, then they by their ſubtile falacies, and bewitching illuſions, which hath been ſufficiently manifeſted, not onely in former ages, but alſo in this preſent, and that of late years by men of no mean degree and quality, that have deeply ſuffered by thoſe cauſes.</p>
+            <p>But I ſhall not inſiſt on theſe particulars, (neither proceed to a fur<g ref="char:EOLhyphen"/>ther relation and diſcovery of thoſe many evils and inconveniences that men are drawn into by the attractive power of women) but rather with care and diligence ſeek to eſchew and prevent them, adviſing o<g ref="char:EOLhyphen"/>thers, as they find cauſe, to indeavour to do the like; for as man is inci<g ref="char:EOLhyphen"/>dent unto many and divers temptations in this life, even ſo alſo is there ſeveral means given him, and waies of reſiſtance, which we ought vigi<g ref="char:EOLhyphen"/>lently to obſerve and put in practice.</p>
+            <p>But alas, when I conſider how the fleſh overcometh the ſpirit, I can<g ref="char:EOLhyphen"/>not but admire at mans frailtie and weakneſſe: and again when I con<g ref="char:EOLhyphen"/>ſider
+<pb n="4" facs="tcp:166765:4"/>that the tree is known by his fruit, and that man is the fruit of that corruptible tree, my admiration is ſoon taken off.</p>
+            <p>I therefore conclude, that man, in this his depraved condition, is not able of himſelf to ſpeak a good word, think a good thought, and much leſſe perform any good action, without the immediate and effectual working of the divine Creator in his heart, which gives us an aſſurance that although our natures are weak and indiſpoſed, yet there is a ſpirit of power and ſtrength to aſſiſt and direct us. It now remains that we humbly and earneſtly deſire of the Almightie, that he would be pleaſed to confer upon us ſome portion of this his ſpirit, that thereby we may be inabled to withſtand the temptations of this world, amongſt which, that of women appears to be none of the leaſt.</p>
+            <div type="part">
+               <head>An Apologie for good Women.</head>
+               <p>HAving briefly laid open the evills and diſcommodities that pro<g ref="char:EOLhyphen"/>ceed from, and attend bad women; it now remains that I ſay ſomething in commendation of the good: and although the number of the one ſo far exceed the other, yet in all ages there hath been ſome, whoſe Godly zeal and virtuous piety (together with their names) ought to be had in memorial to all poſterity.</p>
+               <p>For if we conſider (how mans fall from that eſtate of grace and in<g ref="char:EOLhyphen"/>nocency wherein he was firſt placed, was acted and brought to paſſe by woman) we alſo find that the heavenly Creator (out of his infinite and unſearchable wiſdom) ſo ordained that mans ſalvation proceeded from woman alſo; ſo that by them came death, &amp; by them likewiſe we were reſtored to life: what creature can be more excellent than that whom God hath made an inſtrument to act ſo great a work. If we ſearch the Scriptures we may plainly ſee how great, how good and excellent performances have been put in practice by ſome women, tending to the worſhip of God, the good of his Church, and benefit of his people. As namely Qu. <hi>Eſther,</hi> who (after the decree was paſt for the deſtruction of the Jews) beſought the Lord (three days by faſting &amp; prayer) for their preſervation, which afterward was accompliſhed, ſhe finding favour in
+<pb n="5" facs="tcp:166765:4"/>the ſight of K. <hi>Ahaſuerus,</hi> who not onely repealed that decree, but alſo cauſed the proud and wicked contriver thereof to be executed, and <hi>Mordecay</hi> (from a mean and low condition) to be promoted to great honot and dignity; by means whereof the whole nation of the Jews (the then reputed people of God) obtained more liberty and freedom than ever.</p>
+               <p>And alſo <hi>Iudith</hi> (when the City of <hi>Bethulia</hi> was beſieged by <hi>Ho<g ref="char:EOLhyphen"/>loſernes</hi> and his Hoſt, and the inhabitants thereof (by reaſon of their fins driven into great miſeries and extremities) ſhe I ſay, by a worthy and notable ſtratagem, raiſed the ſiege, and freed that City from utter ruine and deſtruction,</p>
+               <p>And of late years, Queen <hi>Elizabeth</hi> (of famous memory) who ſo long ruled this realm of <hi>England</hi> in quiet peace and tranquility: with divers others before and ſince, whoſe worthy deeds, and renowned vir<g ref="char:EOLhyphen"/>tues, are never to be forgotten, but remain as due trophies of honour to that ſex to the worlds end.</p>
+               <p>But my pen is not of virtue, or words of force to expreſſe their juſt praiſe and commendation, neither is there any earthly bleſſing ſo great (either in proſperitie, or adverſitie, ſickneſs or health) as for a man to in<g ref="char:EOLhyphen"/>joy a good and vertuous woman. In regard therefore they are ſo help<g ref="char:EOLhyphen"/>full, comfortable, and generally uſefull unto man, as that without them the world would be at a period; how then can we ſufficiently love, reſpect, and reverence the virtuous. But ſome (perhaps) may object and ſay, that in this age there are very few of thoſe, and they hard to be found out, to which, I anſwer that as indeed they are not many, that may be an argument, their virtue and goodneſſe may be the more; for we find (by ſure and infallible arguments) that the number of the righteous are but few, and the wicked very numerous. And we muſt alſo acknowledge that women (in their natural inclinations) are all in extreams, for they that are good are really good indeed, and they that are bad are uſually extreamly evill. Neither is mans weakneſſe more apparent then in his choice betwixt good and evill, for oftentimes he takes the one for the other, which is the cauſe that we all fall into ſo many evills and inconveniences; for prevention whereof, we ought carefully and adviſedly to look upon the reall ſubſtance, and not upon the ſeeming ſhew or ſhadow, upon the inward grace and perfection, and not upon the outward beauty and deceitfull appearance. But above all, upon true faith and Godlineſſe, without which we cannot attain to
+<pb n="6" facs="tcp:166765:5"/>any good or perfect gift, tending to our comfort and conſolation, whi<g ref="char:EOLhyphen"/>leſt we remain in this life, or that which is to come,</p>
+               <p>And thus (gentle Reader) I have in ſome brief meaſure anatomized the feminine ſex in generall, and alſo in ſome particulars, which I refer to thy favourable cenſure, and good conſtruction, that ſo, whatſoever is therein am ſle may be by thee corrected, and that which is worth ob<g ref="char:EOLhyphen"/>ſervation more inlarged and amended, it being a matter of general con<g ref="char:EOLhyphen"/>cernment, and a ſubject in it ſelf commendable, profitable unto all, and hurtfull unto none: but the compleating thereof would require ſome la<g ref="char:EOLhyphen"/>bour as well as time, and alſo imploy many ſheets of paper; in regard therefore I may not exceed one (being confined within thoſe narrow limits by ſome conſiderations at this time) I am forced to deſiſt from that enterpriſe and muſt now conclude by way of exhortation (unto all ſorts of men) which is.</p>
+               <p>That thoſe who injoy a Godly, virtuous and loving wife, eſteem of her accordingly, priſing her as a moſt rate, precious, and ineſtimable jew<g ref="char:EOLhyphen"/>el, rendring moſt humble and hearty thanks unto the God of Heaven, for ſo great a bleſſing upon earth.</p>
+               <p>And thoſe who are made partakers of ſo great an evill and diſcom<g ref="char:EOLhyphen"/>moditie as to poſſeſſe a lewd and wicked woman; let them indeavour to arm themſelves with all poſſible patience, earneſtly craving aid and aſ<g ref="char:EOLhyphen"/>ſiſtance from above, that ſo they may be the better enabled to undergo that heavy puniſhment here below; which their own inconſiderate raſhneſſe hath drawn them too.</p>
+               <p>But thoſe who lead ſingle lives (and have not yet made choice of ei<g ref="char:EOLhyphen"/>ther) let not ſuch, I ſay, in their actions and performances, be alſo guided by ſingle judgements, but rather take advice from others; which (being ſeaſoned by their own experience) may give them a further knowledg what it is to make a choice of that nature; it being the greateſt and moſt material action of our whole lives, and that wherein we yeeld our bodies in bondage to good or evill, untill death makes a final ſepa<g ref="char:EOLhyphen"/>ration.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
